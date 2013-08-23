@@ -1,0 +1,1 @@
+default: -f pretty -f html --out cukes.html -f rerun --out rerun.txt
